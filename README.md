@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arun Suresh
 - 👀 I’m interested in power systems and controls
-- 🌱 I’m currently aPhD research scholar
+- 🌱 I’m currently a PhD research scholar
 - 📫 You can reach me at arunsuresh990@gmail.com...
 
 <!---
